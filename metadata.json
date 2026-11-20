@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS Venture Studio",
+  "description": "Strategy dashboard for building and validating venture competition & positioning, revenue & pricing, market size & demand, and go-to-market plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
